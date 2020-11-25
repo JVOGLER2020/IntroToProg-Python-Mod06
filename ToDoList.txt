@@ -1,0 +1,4 @@
+wake up,1
+run,5
+eat,2
+gym,4
